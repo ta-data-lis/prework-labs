@@ -31,7 +31,7 @@ If you are an enrolled student, **you are required to submit your solutions befo
 
 ### Question
 
-Question: How old are you if you were born in 1990?
+How old are you if you were born in 1990?
 
 ### Answer
 
